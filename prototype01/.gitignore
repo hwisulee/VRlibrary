@@ -15,11 +15,27 @@
 /MentalCare_CNU/[Bb]uild/
 /MentalCare_CNU/[Bb]uilds/
 /MentalCare_CNU/[Oo]bj/
-/[Aa]ssets/
+/[Aa]ssets/GUIPack-Clean&Minimalist/
+/[Aa]ssets/Heureka/
+/[Aa]ssets/Animators/
+/[Aa]ssets/Materials/
+/[Aa]ssets/Models/
+/[Aa]ssets/Oculus/
+/[Aa]ssets/Paroxe/
+/[Aa]ssets/Asset/
+/[Aa]ssets/Plugins/
+/[Aa]ssets/Prefabs/
+/[Aa]ssets/Resources/
+/[Aa]ssets/Scenes/
+/[Aa]ssets/SimpleWebBrowser/
+/[Aa]ssets/StreamingAssets/
+/[Aa]ssets/Texture/
+/[Aa]ssets/Textures/
+/[Aa]ssets/TheraBytes/
+/[Aa]ssets/XR/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
-!/[Aa]ssets/Scripts/**/*.cs
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
