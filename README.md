@@ -38,13 +38,16 @@
 
 ![5](https://user-images.githubusercontent.com/62528282/169640676-b7bdbf86-4c63-4363-b16f-adfb70f053da.JPG)
 
-5. Cotent - 각 문서 뷰어 연결 시도시
+5. Content - 각 문서 뷰어 연결 시도시
 
 ![6](https://user-images.githubusercontent.com/62528282/169640678-f72574c7-7989-4793-97e7-7a42863098e9.JPG)
 
 6. 월드 선택 버튼 클릭시 (3명의 디자인 담당이 만든 가상환경으로 이동)
 
 ![7](https://user-images.githubusercontent.com/62528282/169640679-406b9283-f967-41ea-8c7d-efe9820cfe45.JPG)
+
+- PC 플레이시 각 월드에 놓여진 PC 오브젝트에 접촉하여 Content 접촉가능
+- VR 플레이시 각 월드 넓은 벽면에 놓여진 뷰어와 접촉하여 Cotent 접촉가능
 
 7. 만든 사람들
 
