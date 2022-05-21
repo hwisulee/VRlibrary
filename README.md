@@ -13,26 +13,49 @@
 </code>
 </pre>
 
+[Demo Download](https://drive.google.com/file/d/1QBl6_fYThlSQgi4UvD8zUrjZm593Ac30/view?usp=sharing)
+
 ## Table of Contents
 1. [Preview](#preview)
-2. [Library](#library)
+2. [Assets](#assets)
 3. [License](#license)
 
 <h2 id="preview">Preview</h2>
 
 not ready yet
 
-<h2 id="library">Library</h2>
+<h2 id="assets">Assets</h2>
 
->This Project included this Library and API.
+>This Project included this Assets.
+
+1. [Clean & Minimalist GUI Pack](https://assetstore.unity.com/packages/2d/gui/clean-minimalist-gui-pack-75123)
+2. [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
+3. [Runtime File Browswer](https://assetstore.unity.com/packages/tools/gui/runtime-file-browser-113006)
+4. [PDF Renderer](https://assetstore.unity.com/packages/tools/gui/pdf-renderer-32815)
+5. [Better UI](https://assetstore.unity.com/packages/tools/gui/better-ui-79031)
+6. [Free Laptop](https://assetstore.unity.com/packages/3d/props/electronics/free-laptop-90315)
+7. [Starter Assets - First Person Character Controller](https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-196525)
+8. [Space Robot Kyle](https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696)
+
 
 not ready yet
 
 <h2 id="license">License</h2>
 
->Library and API has this Licenses
+>Asset has this Licenses
 
-not ready yet
+- All Unity Asset has this Licenses
+
+Unity Terms of Service
+Last updated: January 28, 2022
+
+Unity (sometimes “our” or “we”) provides game-development and related software (the “Software”), support services and other development-related services (like PlasticSCM and Unity DevOps) (“Developer Services), and various Unity communities (like Unity Answers and Unity Connect (“Communities”)), provided through or in connection with our website, accessible at unity3d.com or unity.com (collectively, the “Site”). Except to the extent you and Unity have executed a separate agreement, these terms and conditions exclusively govern your access to and use of the Software, Developer Services, Communities and Site (collectively, the “Services”), and constitute a binding legal agreement between you and Unity (the “Terms”).  These Terms, including all Additional Terms referenced in Section 1.3 below, are, collectively, the “Agreement.” Unless otherwise indicated, "Unity," as used throughout the Agreement, means Unity Technologies ApS.
+
+If you accept or agree to the Agreement on behalf of a company, organization or other legal entity (a “Legal Entity”), you represent and warrant that you have the authority to bind that Legal Entity to the Agreement and, in such event, “you” and “your” will refer and apply to that company or other legal entity.
+
+You acknowledge and agree that, by accessing, purchasing or using the services, you are indicating that you have read, understand and agree to be bound by the agreement whether or not you have created a unity account, subscribed to the unity newsletter or otherwise registered with the site. If you do not agree to these terms and all applicable additional terms, then you have no right to access or use any of the services.
+
+[More Information](https://unity3d.com/kr/legal/terms-of-service)
 
 <br>
 
