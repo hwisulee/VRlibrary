@@ -22,7 +22,33 @@
 
 <h2 id="preview">Preview</h2>
 
-not ready yet
+1. 실행시 조작 방식 체크 다이얼로그
+
+![1](https://user-images.githubusercontent.com/62528282/169640669-d232f958-175a-4af3-a60f-44272462ee64.JPG)
+
+2. 메인 화면 UI
+
+![3](https://user-images.githubusercontent.com/62528282/169640673-ab8b6aa8-967a-4342-b172-4fd1e26ce626.JPG)
+
+3. Content - 웹 검색 및 각 문서 뷰어 연결
+
+![4](https://user-images.githubusercontent.com/62528282/169640675-8090724d-abe8-4fc4-aa9f-e8a3704dbc38.JPG)
+
+4. Content - 웹 검색시
+
+![5](https://user-images.githubusercontent.com/62528282/169640676-b7bdbf86-4c63-4363-b16f-adfb70f053da.JPG)
+
+5. Cotent - 각 문서 뷰어 연결 시도시
+
+![6](https://user-images.githubusercontent.com/62528282/169640678-f72574c7-7989-4793-97e7-7a42863098e9.JPG)
+
+6. 월드 선택 버튼 클릭시 (3명의 디자인 담당이 만든 가상환경으로 이동)
+
+![7](https://user-images.githubusercontent.com/62528282/169640679-406b9283-f967-41ea-8c7d-efe9820cfe45.JPG)
+
+7. 만든 사람들
+
+![8](https://user-images.githubusercontent.com/62528282/169640680-cf797531-5970-4309-bd85-92a5db8c2ad0.JPG)
 
 <h2 id="assets">Assets</h2>
 
@@ -52,6 +78,7 @@ Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
 [More Information1](https://github.com/tunerok/unity_browser)
+
 [More Information2](https://github.com/tunerok/unity_browser/blob/master/LICENSE)
 
 <br>
